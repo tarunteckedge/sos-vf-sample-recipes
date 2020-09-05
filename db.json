@@ -35,6 +35,42 @@
         "#text": "https://veggiefestchicago.org/?p=27157"
       },
 	  "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum "
+    }, {
+      "title": "Let�s Have a Pizza Party�Veggie Style!",
+      "link": "https://veggiefestchicago.org/lets-have-a-pizza-party-veggie-style/?utm_source=rss&utm_medium=rss&utm_campaign=lets-have-a-pizza-party-veggie-style",
+      "creator": "Veggie Fest Team",
+      "pubDate": "Mon, 10 Aug 2020 20:35:20 +0000",
+      "category": "Kids in the Kitchen",
+	  "imageURL": "https://veggiefestchicago.org/wp-content/uploads/2020/08/Pizza-Party-Blog-Banner-2.jpg",
+      "guid": {
+        "@isPermaLink": "false",
+        "#text": "https://veggiefestchicago.org/?p=28868"
+      },
+	  "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum "
+    }, {
+      "title": "Embracing Oil-free Cooking and Baking",
+      "link": "https://veggiefestchicago.org/embracing-oil-free-cooking-and-baking/?utm_source=rss&utm_medium=rss&utm_campaign=embracing-oil-free-cooking-and-baking",
+      "creator": "Veggie Fest Team",
+      "pubDate": "Mon, 13 Jul 2020 18:45:02 +0000",
+      "category": "Food & Health",
+	  "imageURL": "https://veggiefestchicago.org/wp-content/uploads/2020/07/No-Oil-Blog2.jpg",
+      "guid": {
+        "@isPermaLink": "false",
+        "#text": "https://veggiefestchicago.org/?p=28470"
+      },
+	  "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum "
+    }, {
+      "title": "Vegan on a Budget",
+      "link": "https://veggiefestchicago.org/vegan-on-a-budget/?utm_source=rss&utm_medium=rss&utm_campaign=vegan-on-a-budget",
+      "creator": "Veggie Fest Team",
+      "pubDate": "Thu, 16 Apr 2020 13:39:44 +0000",
+      "category": "Food & Health",
+	  "imageURL": "https://veggiefestchicago.org/wp-content/uploads/2020/04/Ashtha1.jpg",
+      "guid": {
+        "@isPermaLink": "false",
+        "#text": "https://veggiefestchicago.org/?p=27157"
+      },
+	  "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum "
     }]
   
 }
